@@ -1,5 +1,5 @@
 # My-First-Repo
-<img width="100%" alt="Hello, I'm Buez Rico!" src="https://pbs.twimg.com/profile_banners/925802270968762368/1712986255/1080x360" />
+<img width="100%" alt="Hello, I'm Austin!" src="" />
 
 <br />
 
